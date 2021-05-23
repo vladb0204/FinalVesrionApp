@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">QuizApp_Main</string>
+    <string name="password_is_too_short">Password must have at least 8 symbols!</string>
+    <string name="wrong_email">Wrong Email!</string>
+    <string name="network_not_available">Check your connect to the Internet!</string>
+    <string name="wrong_name">You have entered the wrong name!</string>
+    <string name="auth_restore_password">Restore password email has been send</string>
+    <string name="email_not_exist">This email doesn\'t exist!</string>
+    <string name="wrong_password">Wrong password!</string>
+    <string name="email_already_exist">This email already exists! Choose another one!</string>
+    <string name="too_many_attempts">Too many attemts to enter, try again later!</string>
+    <string name="welcome_slide_text">Weclome_text_slide</string>
+    <string name="auth_password">Password</string>
+    <string name="auth_email">Email</string>
+    <string name="auth_name">Enter name</string>
+    <string name="auth_sign_up">Sign up</string>
+    <string name="auth_sign_in">Sign in</string>
+    <string name="auth_back">Back</string>
+    <string name="auth_forgot_password">Forgot password</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="restart_button">Restart</string>
+    <string name="go_back_button">Go back</string>
+    <string name="start_test_button">Start</string>
+    <string name="next_button">Next</string>
+    <string name="previous_button">Prev</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+
+    <string name="question_australia">Canberra is the capital of Austria.</string>
+    <string name="question_africa">The source of the Nile River is in Egypt.</string>
+    <string name="question_oceans">The Pacific Ocean is larger than the Atlantic Ocean.</string>
+    <string name="question_mideast">
+        The Suez Canal connect the Red Sea and the Indian Ocean.
+    </string>
+    <string name="question_americas">The Amazon River is the longest river in the Americas.</string>
+    <string name="question_asia">
+        Lake Baikal is the world\'s oldest and deepest freshwater lake.
+    </string>
+
+    <string name="question_moscow">Moscow is the capital of Moscow.</string>
+    <string name="question_history">Ronald Reagan was the 2nd president of the USA.</string>
+    <string name="question_universe">The brightest star on our sky in Sirius A.</string>
+    <string name="question_sun">The light\'s speed is 300_00 km/s.</string>
+    <string name="question_border">Canada has land border only with 1 country - the USA.</string>
+    <string name="question_wonders">There\'s only one wonder of the world left out of 7.</string>
+    <string name="question_programming">Python programming language was created in 1991.</string>
+
+    <string name="question_germany">
+        During the Second World war Germany has annexed at least 5 countries.
+    </string>
+    <string name="question_gagarin">Gagarin was the first man to go into free space.</string>
+    <string name="question_spain">Christopher Columbus was a Spanish discoverer of America.</string>
+
+    <string name="warning_test">Are you sure you want to do this?</string>
+    <string name="shoew_answer_button">Show answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judjement_toast">Cheating is wrong.</string>
+    <string name="move_to_main_activity">Go back</string>
+    <string name="restart_button_text">Restart Game</string>
+</resources>
